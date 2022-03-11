@@ -1,3 +1,5 @@
 Name : Takyoung
 Age : 32
 Favotire Color : turquoise 
+Address : Berlin
+Favorite Sport : Beach Volleyball
